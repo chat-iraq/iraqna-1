@@ -1,16 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://www.iraqna-1.com/</loc>
-  <lastmod>2021-04-03T14:12:53+00:00</lastmod>
+<loc>https://www.iraqna-1.com/</loc>
+<changefreq>weekly</changefreq>
 </url>
-
-
+<url>
+<loc>https://www.iraqna-1.com/iraqya</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.iraqna-1.com/asyadiq</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.iraqna-1.com/iraqeen</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.iraqna-1.com/iraqstar</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.iraqna-1.com/iraq</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.iraqna-1.com/baghdad</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.iraqna-1.com/banotah</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.iraqna-1.com/baghdady</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.iraqna-1.com/chat/</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.iraqna-1.com/chatf2/</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.iraqna-1.com/hams0/</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.iraqna-1.com/ksa-3/</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.iraqna-1.com/alwadi/</loc>
+<changefreq>weekly</changefreq>
+</url>
 </urlset>
